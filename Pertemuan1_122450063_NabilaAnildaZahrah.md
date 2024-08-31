@@ -1,12 +1,21 @@
-#Nama 			    :  Nabila Anilda Zahrah#
-#NIM			    :  122450063#
-#Kelas 			    :  RC (Visualisasi Data)#
-#Tugas1#
-#Review Jurnal		:  Making data visualization more efficient and effective: a survey#
-#Jurnal              : The VLDB Journal#
-#Volume & Halaman    : Vol. 29, halaman 93-117#
-#Tahun            	: 2020#
-#Penulis      		: Xuedi Qin, Yuyu Luo & Guoliang Li#
+Nama 			    :  Nabila Anilda Zahrah
+
+NIM			        :  122450063
+
+Kelas 			    :  RC (Visualisasi Data)
+
+Tugas1
+
+Review Jurnal		:  Making data visualization more efficient and effective: a survey
+
+Jurnal              : The VLDB Journal
+
+Volume & Halaman    : Vol. 29, halaman 93-117
+
+Tahun            	: 2020
+
+Penulis      		: Xuedi Qin, Yuyu Luo & Guoliang Li
+
 
 1.	Spesifikasi Visualisasi (Visualization Specifications):
     Jurnal ini menyoroti pentingnya spesifikasi visualisasi, yang memungkinkan pengguna untuk menentukan bagaimana data          harus divisualisasikan. Bahasa visualisasi seperti D3, Vega-Lite, dan VizQL adalah beberapa contoh yang digunakan untuk      mendefinisikan elemen visualisasi.
